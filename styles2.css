@@ -31,6 +31,7 @@
     flex-direction: row;
     background-color: black;
     align-content: space-between;
+    flex-wrap: wrap;
       }
 .flex-container > div {
     background-color: lightgray;
@@ -80,7 +81,8 @@ li { background-color: ;
   list-style-type:none;
   padding:2px;}
   */
-@media screen and (max-width: 500px)
+  
+@media screen and (max-width: 600px)
   {.topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -93,7 +95,7 @@ li { background-color: ;
     text-align: left;}
 
 
-  @media screen and (max-width 500px) {
+  @media screen and (max-width 600px) {
   .flex-container > div
     {display: flex;
     flex-direction: column;
