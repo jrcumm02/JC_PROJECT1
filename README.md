@@ -6,8 +6,11 @@ in process of making all nav links active
 used Bootstrap, for picture slideshow for a polished look
 still trying to figure out adjusting the images
 
-the bit of javascript ive used allows the nave menu to be clickable from the menu button that appears on
-smaller screens. all else is a use of bootstrap, im still trying to fugure out javascript (and everything else for that amtter.)
+the bit of javascript ive used allows the nav menu to be clickable from the menu button that appears on
+smaller screens. 3-28-2019 added JS to change color of <p> block for facebook link on hover. there are also other blocks that
+change on hover making in fun to mouse around the page.
+
+all else is a use of bootstrap, im still trying to fugure out javascript (and everything else for that amtter.)
 
 I may have to adjust my images locations (directory) I just put the image files into a folder so they would more neatly organized.
 
