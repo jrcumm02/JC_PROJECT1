@@ -7,7 +7,7 @@ used Bootstrap, for picture slideshow for a polished look
 still trying to figure out adjusting the images
 
 the bit of javascript ive used allows the nav menu to be clickable from the menu button that appears on
-smaller screens. 3-28-2019 added JS to change color of <p> block for facebook link on hover. there are also other blocks that
+smaller screens. 3-28-2019 added JS to change color of paragraph block for facebook link on hover. there are also other blocks that
 change on hover making in fun to mouse around the page.
 
 all else is a use of bootstrap, im still trying to fugure out javascript (and everything else for that amtter.)
@@ -20,7 +20,7 @@ Id like to have a vertical orientation for mobild and tablet vewing, however i h
 successful at getting the change between rows and collumns to happen as needed. 
 
 I have also had issues trying to adjust text, and background colo inside of the flex box.
-I was more successful with using the <OL> and <Li> to manipulate the appearance of the list
+I was more successful with using the OL and Li to manipulate the appearance of the list
 
 link to facebook at page bottom is active
 back to top link is active
