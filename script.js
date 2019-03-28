@@ -6,3 +6,11 @@ function myFunction() {
     x.className = "topnav";
   }
 }
+
+$(document).ready(function(){
+  $("p").hover(function(){
+    $(this).css("background-color", "dimgray");
+    }, function(){
+    $(this).css("background-color", "lightgray");
+  });
+});
